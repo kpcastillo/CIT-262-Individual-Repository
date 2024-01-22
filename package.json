@@ -1,0 +1,19 @@
+{
+  "name": "cit-262-individual-repository",
+  "version": "1.0.0",
+  "description": "node js example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cit-262-indvidual-repository"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Karen",
+  "license": "ISC"
+}
