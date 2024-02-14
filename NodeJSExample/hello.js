@@ -1,5 +1,5 @@
 const firstName = 'Karen';
-console.log('Hello _______');
+console.log(`Hello ${firstName}`);
 
 //node helloworld.js
 
